@@ -1,0 +1,122 @@
+[
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMTg5NTU0ODA5Ml5BMl5BanBnXkFtZTcwMzc1NTc0NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "name": "Christina Perri",
+      "country": "USA",
+      "age": 35,
+      "gender": "Female",
+      "salary": 566553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjA5ODI0NzIzNV5BMl5BanBnXkFtZTcwMzM0NjI2Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "name": "Taylor Swift",
+      "country": "USA",
+      "age": 33,
+      "gender": "Female",
+      "salary": 666553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMTc3MzE1MzcxNl5BMl5BanBnXkFtZTcwNTM1MTA2OA@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+      "name": "Miley Cyrus",
+      "country": "USA",
+      "age": 32,
+      "gender": "Female",
+      "salary": 466553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjE1NDE3ODA0MV5BMl5BanBnXkFtZTcwODQ5NTgwNQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "name": "Bruno Mars",
+      "country": "USA",
+      "age": 28,
+      "gender": "Male",
+      "salary": 366553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_UY317_CR12,0,214,317_AL_.jpg",
+      "name": "Selena Gomez",
+      "country": "USA",
+      "age": 27,
+      "gender": "Female",
+      "salary": 566453
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjE1NjMxMDUyM15BMl5BanBnXkFtZTgwODMzNDM1NTE@._V1_UY317_CR50,0,214,317_AL_.jpg",
+      "name": "Justin Bieber",
+      "country": "USA",
+      "age": 25,
+      "gender": "Male",
+      "salary": 467553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjI0MDAxMDYwOV5BMl5BanBnXkFtZTcwMTQ1MjE2Mw@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+      "name": "Eminem",
+      "country": "USA",
+      "age": 37,
+      "gender": "Male",
+      "salary": 476553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMTUwMjE1MjU2N15BMl5BanBnXkFtZTcwNjk0ODY1NA@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+      "name": "Justin Timberlake",
+      "country": "USA",
+      "age": 27,
+      "gender": "Male",
+      "salary": 376553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMzVkMTUzNjMtMjYwNC00MmI4LTk0NWQtMGI0MmM1YzIyZjI3XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_UY317_CR51,0,214,317_AL_.jpg",
+      "name": "Rihanna",
+      "country": "USA",
+      "age": 34,
+      "gender": "Female",
+      "salary": 396553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjE4MDI3NDI2Nl5BMl5BanBnXkFtZTcwNjE5OTQwOA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+      "name": "Katy Perry",
+      "country": "USA",
+      "age": 29,
+      "gender": "Female",
+      "salary": 456553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMTQ3MTgxMDM1Ml5BMl5BanBnXkFtZTcwNTU5MzQzNA@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+      "name": "Christina Aguilera",
+      "country": "USA",
+      "age": 27,
+      "gender": "Female",
+      "salary": 346553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjA2OTQ3MDk3M15BMl5BanBnXkFtZTcwNzE4MDA0Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "name": "Adele",
+      "country": "USA",
+      "age": 35,
+      "gender": "Female",
+      "salary": 426553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "name": "Lady Gaga",
+      "country": "USA",
+      "age": 28,
+      "gender": "Female",
+      "salary": 379553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BNzMxNDQ3NTEwN15BMl5BanBnXkFtZTcwNDM5NjM0Mg@@._V1_UY317_CR8,0,214,317_AL_.jpg",
+      "name": "Demi Lovato",
+      "country": "USA",
+      "age": 26,
+      "gender": "Female",
+      "salary": 323553
+    },
+    {
+      "img": "https://m.media-amazon.com/images/M/MV5BMjE2OTIwMzE0MF5BMl5BanBnXkFtZTcwNjgyNjg0OQ@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+      "name": "Pitbull",
+      "country": "USA",
+      "age": 39,
+      "gender": "Male",
+      "salary": 386353
+    }
+  ]
